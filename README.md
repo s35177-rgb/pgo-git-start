@@ -1,4 +1,4 @@
-\## Repository Structure
+\## Repository Structure (Version A)
 
 
 
@@ -14,15 +14,15 @@ pgo-git-start
 
 
 
-git init  
+git init
 
-git add  
+git add
 
-git commit  
+git commit
 
-git push  
+git push
 
-git branch  
+git branch
 
 git merge
 
